@@ -1,4 +1,4 @@
-import person from "../../assets/images/ppg.jpeg";
+import person from "../../assets/images/assese.jpeg";
 import "./introduction.css";
 
 
@@ -17,14 +17,16 @@ const IntroductionInspiration = () => {
             </span>
           </p>
           <p className="text-xs xxs:text-lg lg:text-[18px] my-6 text-justify leading-relaxed indent-10">
-            Inspirasi saya untuk menjadi guru berawal dari keinginan sederhana, yaitu membagikan ilmu yang saya miliki agar dapat bermanfaat bagi orang lain. 
-            Lingkungan keluarga yang sebagian besar berprofesi sebagai guru juga memberikan pengaruh besar dalam membentuk pandangan saya terhadap dunia pendidikan. 
-            Dari mereka, saya belajar bahwa menjadi guru bukan sekadar pekerjaan, melainkan panggilan untuk mencerdaskan dan membimbing generasi.
+            Inspirasi saya untuk menjadi guru berawal dari keinginan untuk membagikan ilmu yang saya miliki agar bisa bermanfaat bagi orang lain. Lingkungan keluarga yang banyak berprofesi sebagai guru juga membuat saya semakin tertarik dengan dunia pendidikan. Dari mereka, saya belajar bahwa menjadi guru bukan hanya tentang mengajar, tetapi juga tentang membimbing dan memberikan pengaruh baik bagi generasi muda.
+ 
+           </p>
 
-            Bagi saya, tujuan menjadi guru tidak hanya sebatas mengajar di kelas, tetapi juga memberikan dampak nyata bagi siswa. Saya ingin hadir sebagai sosok yang mampu menginspirasi, 
-            memotivasi, dan membantu mereka berkembang, baik secara akademik maupun karakter. Dengan begitu, ilmu yang saya berikan tidak hanya dipahami, tetapi juga dapat diterapkan dan membawa manfaat 
-            dalam kehidupan mereka.
-
+           <p className="text-xs xxs:text-lg lg:text-[18px] my-6 text-justify leading-relaxed indent-10">
+            Bagi saya, menjadi guru tidak hanya sekadar menyampaikan materi di kelas, tetapi juga membantu siswa untuk berkembang, baik dalam akademik maupun karakter. Saya ingin menjadi guru yang bisa memberikan motivasi, inspirasi, dan membuat siswa merasa nyaman dalam proses belajar.
+            Karena itu, saya ingin menjalani setiap proses dengan penuh tanggung jawab dan selalu berusaha memberikan yang terbaik dalam setiap kesempatan, sesuai dengan prinsip hidup yang saya pegang.
+           </p>
+           <p className="text-xs xxs:text-lg lg:text-[18px] my-6">
+            - “Do the best for everything.”
            </p>
           
         </div>

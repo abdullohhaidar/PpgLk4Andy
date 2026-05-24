@@ -12,9 +12,11 @@ const Projects = ({ data }) => {
         </p>
         <a
           href={data?.link}
+          target="_blank"
+          rel="noopener noreferrer"
           className="btn hover:border-picto-primary hover:text-picto-primary bg-white text-sm xs:text-[12px] font-semibold hover:gap-3 xs:hover:gap-4 transition-all duration-300 mt-2 xs:py-5.75 px-5 max-sm:w-full"
         >
-          Case Study
+          Studi Kasus
           <span className="ms-1 xs:ms-3">
             <FontAwesomeIcon icon={faArrowRight} size="l" className="" />
           </span>

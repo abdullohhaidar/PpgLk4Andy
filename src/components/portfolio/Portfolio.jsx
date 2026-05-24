@@ -1,6 +1,6 @@
 import Projects from "./Projects";
 import card1 from "../../assets/images/portfolio-images/silatfix.png";
-import card2 from "../../assets/images/portfolio-images/LariCepat.png";
+import card2 from "../../assets/images/portfolio-images/JalanCepat2.png";
 import card3 from "../../assets/images/portfolio-images/basket.png";
 import card4 from "../../assets/images/portfolio-images/card-4.png";
 import card5 from "../../assets/images/portfolio-images/card-5.png";

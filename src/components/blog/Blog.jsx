@@ -63,9 +63,16 @@ const Blog = () => {
           {blogData?.map((data, index) => (
             <SwiperSlide
               key={index}
-              className="!w-[450px] mb-10 flex justify-center"  /* pagination margin bottom to 40px */  
+              className="!w-[450px] mb-10 flex justify-center"
             >
-              <MonoBlog data={data} key={index} />
+              <a
+                href={data.link}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="block w-full cursor-pointer"
+              >
+                <MonoBlog data={data} key={index} />
+              </a>
             </SwiperSlide>
           ))}
         </Swiper>
