@@ -27,7 +27,7 @@ const addressData = [
 
 const Contact = () => {
   return (
-    <div className="relative -bottom-15 -mt-35 z-10 px-2">
+    <div className="relative -bottom-5 -mt-10 z-10 px-2">
       <div
         className="content p-4 md:p-10 lg:p-22 bg-white rounded-2xl shadow-[0px_0px_90px_9px_rgba(0,_0,_0,_0.1)]"
         id="contact"
@@ -36,11 +36,10 @@ const Contact = () => {
           <div>
             <div>
               <p className="text-[35px] max-lg:hidden font-semibold text-nowrap text-[#132238]">
-                Let’s discuss your Project
+                Butuh Pelatih Olahraga?
               </p>
               <p className="text-[12px] xs:text-[14px] sm:text-lg md:text-lg max-lg:text-center pt-4 font-normal text-soft-dark">
-                I'm available for freelance work. Drop me a line if you have a
-                project you think I'd be a good fit for.
+                Saya Bersedia untuk freelance sebagai pelatih olahraga. Hubungi saya jika Anda memiliki program latihan atau butuh guru olahraga yang sesuai dengan keahlian saya
               </p>
             </div>
             <div className="my-8.75 sm:max-lg:flex justify-between items-center">

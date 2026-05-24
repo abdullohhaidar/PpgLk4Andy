@@ -4,11 +4,11 @@ import { Link } from "react-scroll";
 
 const navItems = [
   { id: 1, name: "Home", url: "introduction" },
-  { id: 2, name: "About", url: "profile" },
-  { id: 3, name: "Process", url: "work-process" },
-  { id: 4, name: "Portfolio", url: "portfolio" },
-  { id: 5, name: "Blog", url: "blog" },
-  { id: 6, name: "Services", url: "services" },
+  { id: 2, name: "Profile", url: "profile" },
+  { id: 3, name: "Bidang", url: "work-process" },
+  { id: 4, name: "Artefak", url: "portfolio" },
+  { id: 5, name: "Instrumen", url: "blog" },
+  { id: 6, name: "Filosofi", url: "services" },
 ];
 
 const handleMenuClick = () => {

@@ -21,7 +21,7 @@ const rolesData = [
 const Profession = () => {
   return (
     <div
-      className="content w-[1100px] flex justify-center max-xxl:px-2 xxl:px-2 py-10 md:py-15 lg:py-37.5"
+      className="content w-[1100px] flex justify-center max-xxl:px-2 xxl:px-2 py-10 md:py-15 lg:py-57.5"
       id="services"
     >
       
