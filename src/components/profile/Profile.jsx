@@ -6,7 +6,7 @@ import SocialMedia from "../common/socialMedia/SocialMedia";
 const Profile = () => {
   return (
     <div
-      className={`relative mx-4 xxl:mx-0.5 -bottom-20 lg:-bottom-28 z-10 rounded-2xl bg-white drop-shadow-2xl max-xl:mb-5 shadow-white xl:p-28 lg:p-20 md:p-16 sm:p-10 p-4`}
+      className={`relative mx-4 xxl:mx-0.5 rounded-2xl bg-white drop-shadow-2xl max-xl:mb-5 shadow-white xl:p-28 lg:p-20 md:p-16 sm:p-10 p-4`}
       id="profile"
     >
       <div className="flex max-md:flex-col justify-between items-center gap-6">
@@ -33,16 +33,14 @@ const Profile = () => {
           <h2
             className={`text-2xl xxs:text-3xl sm:text-4xl lg:text-[38px] text-[min(24px,38px)] max-md:text-center font-semibold mb-8`}
           >
-            Saya Seorang Guru PJOK
+            Model guru yang ingin dituju
           </h2>
           <div
             className={`text-xs xs:text-[16px] lg:text-lg font-normal max-md:text-center text-gray-600  text-justify leading-relaxed`}
           >
-            <p className={``}>
-              Saat ini, saya sedang menempuh Program Pendidikan Profesi Guru (PPG) di Universitas PGRI Adi Buana Surabaya untuk mengembangkan kompetensi sebagai calon pendidik yang berkualitas.
-            </p>
+           
             <p className="mt-3">
-              Saya berkomitmen untuk terus belajar, beradaptasi, dan berkontribusi dalam dunia pendidikan, khususnya melalui pembelajaran pendidikan jasmani yang efektif, inovatif, serta berorientasi pada pembentukan peserta didik yang aktif dan berkarakter.
+              Model guru yang ingin saya tuju adalah guru PJOK yang demokratis, tegas, dan mampu menjadi teladan bagi peserta didik. Sikap demokratis diwujudkan melalui komunikasi yang baik, memberi kesempatan peserta didik berpendapat, serta menciptakan pembelajaran yang aktif dan menyenangkan sesuai teori humanistik, di mana guru berperan sebagai fasilitator perkembangan peserta didik. Selain itu, saya juga ingin menjadi guru yang tegas dalam menerapkan aturan, disiplin, dan keselamatan pembelajaran sesuai teori behavioristik yang menekankan pentingnya penguatan dan konsistensi dalam membentuk perilaku peserta didik. Untuk menjadi guru profesional, saya perlu meningkatkan kompetensi pedagogik, keterampilan mengajar, penguasaan materi, dan kemampuan mengelola kelas.
             </p>
           </div>
           <div className="mt-8 flex max-md:justify-center">

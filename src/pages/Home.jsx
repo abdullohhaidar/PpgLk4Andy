@@ -20,7 +20,7 @@ const Home = () => {
           <Introduction />
           <IntroductionRegion />
           <IntroductionInspiration />
-          <Profile />
+          
         </div>
       </div>
       <div className="bg-soft-white pt-30">
@@ -33,8 +33,10 @@ const Home = () => {
       <div className="blog-background">
         <Blog />
       </div>
-      <div className="bg-soft-white">
-        <Profession />
+      <div className="introduction-blog-background">
+        <div className="content">
+          <Profile />
+        </div>
       </div>
       <Contact />
     </div>
