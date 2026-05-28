@@ -12,21 +12,21 @@ const projectData = [
     image: card1,
     category: "SIKLUS 1",
     title: "Pencak Silat",
-    link: "https://drive.google.com/drive/folders/1zfJNd44Or6W03ODVSws46NVHBEsGtUTE",
+    link: "https://drive.google.com/drive/folders/1IOGcZe8whTJlkqdNhx58Q69orLNjplVS",
   },
   {
     id: 2,
     image: card2,
     category: "SIKLUS 2",
     title: "Jalan Cepat",
-    link: "https://drive.google.com/drive/folders/14sGGAWTySy1h7qEd_3R5YHuNpdLTpeXZ",
+    link: "https://drive.google.com/drive/folders/1gcdfthfMGiGYhosVjAhuktvY-uYlBE2Z",
   },
   {
     id: 3,
     image: card3,
     category: "SIKLUS 3",
     title: "Permainan Bola Basket",
-    link: "https://drive.google.com/drive/folders/1H0LT_-aMtp6EjKDdtnGxY1bUmcAqcOeG",
+    link: "https://drive.google.com/drive/folders/1vuLTLIM9o5JK3xKK7sd7tpDk4cQ471XT",
   },
 ];
 

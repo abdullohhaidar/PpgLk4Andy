@@ -6,7 +6,7 @@ import tailwindcss from "@tailwindcss/vite";
 export default defineConfig(({ mode }) => {
   const env = loadEnv(mode, process.cwd(), "");
   return {
-    base: "/PpgUtsAndy/",
+    base: "/PpgLk4Andy/",
     plugins: [react(), tailwindcss()],
     server: {
       open: true,
