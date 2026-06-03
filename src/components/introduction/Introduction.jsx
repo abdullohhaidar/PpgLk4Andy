@@ -36,7 +36,7 @@ const Introduction = () => {
             </span>
           </p>
           <p className="text-xs xxs:text-lg lg:text-[18px] my-6 text-justify leading-relaxed indent-8">
-            Saya merupakan lulusan Program Sarjana (S1) Pendidikan Kepelatihan Olahraga (PKO) Universitas Negeri Surabaya dengan Indeks Prestasi Kumulatif (IPK) 3,84 dan lulus pada tahun 2025. Selama menempuh pendidikan, saya memiliki minat dan komitmen yang kuat dalam bidang pendidikan jasmani, kepelatihan olahraga, serta pengembangan kondisi fisik.
+            Saya merupakan lulusan Program Sarjana (S1) Pendidikan Kepelatihan Olahraga (PKO) dari Universitas Negeri Surabaya dengan IPK 3,84 dan lulus pada tahun 2025. Saya memiliki minat dan komitmen yang kuat dalam bidang pendidikan jasmani, kepelatihan olahraga, dan pengembangan kondisi fisik. Saat ini, saya sedang menempuh Program Pendidikan Profesi Guru (PPG) di Universitas PGRI Adi Buana Surabaya serta melaksanakan Praktik Pengalaman Lapangan (PPL) di SMP Negeri 22 Surabaya. Saya berkomitmen untuk terus mengembangkan kompetensi sebagai pendidik profesional di bidang Pendidikan Jasmani, Olahraga, dan Kesehatan (PJOK).
           </p>
           <p className="text-center lg:text-start">
             <a
