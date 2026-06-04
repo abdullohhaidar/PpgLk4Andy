@@ -29,16 +29,12 @@ const blogData = [
   {
     id: 2,
     image: img2,
-    date: "22 Oct, 2020",
-    comments: 246,
     title: "Instrumen Perangkat",
     link: "https://drive.google.com/drive/folders/1tbjce6-TR_fvuInoKgEWshGUYhouLr5w",
   },
   {
     id: 3,
     image: img3,
-    date: "22 Oct, 2020",
-    comments: 246,
     title: "Instrumen Praktik",
     link: "https://drive.google.com/drive/folders/1XNDS2DE5ozJeIgMPowZhWNNUqDlkzeJQ",
   },
